@@ -1,5 +1,7 @@
 # QuickFIX examples for python developers
 
+⚠️ The code in this repository is experimental and has not been audited.
+
 ## Installing Requirements
 ```
 pip install -r requirements.txt
